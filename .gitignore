@@ -1,0 +1,91 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.virtualenv/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# macOS metadata files
+.Spotlight-V100
+.Trashes
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+media/
+staticfiles/
+
+# dotenv environment variables
+.env
+.env.*
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# MyPy, Pyright
+.mypy_cache/
+.pyright/
+
+# Coverage reports
+htmlcov/
+.coverage
+coverage.xml
+
+# pytest
+.pytest_cache/
+
+# pip-tools
+*.txt~
+pip-log.txt
+
+# Translations
+*.mo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Build
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Wheels
+*.whl
+
+# Docker
+*.pid
+
+# Celery
+celerybeat-schedule
+
+# Gunicorn
+gunicorn.pid
+
+# node
+node_modules/
+
+# System-wide ignored files
+*.swp
+*.swo
+*~
