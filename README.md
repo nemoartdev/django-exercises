@@ -1,1 +1,1 @@
-# Exercises in Django
+# Exercises in Django 🎨
