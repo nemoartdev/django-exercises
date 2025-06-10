@@ -65,13 +65,13 @@ pip-log.txt
 .ipynb_checkpoints/
 
 # Build
-build/
-dist/
-*.egg-info/
-.eggs/
+# build/
+# dist/
+# *.egg-info/
+# .eggs/
 
 # Wheels
-*.whl
+# *.whl
 
 # Docker
 *.pid
